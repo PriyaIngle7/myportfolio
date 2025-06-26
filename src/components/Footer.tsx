@@ -27,7 +27,7 @@ const Footer = () => {
               {FaLinkedin({ className: "text-xl" })}
             </a>
             <a
-              href="mailto:priyainle456@gmail.com"
+              href="mailto:priyaingle456@gmail.com"
               className="text-gray-400 hover:text-white transition-colors"
             >
               {FaEnvelope({ className: "text-xl" })}
